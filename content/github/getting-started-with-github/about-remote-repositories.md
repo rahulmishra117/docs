@@ -26,7 +26,7 @@ You can only push to two types of URL addresses:
 
 Git associates a remote URL with a name, and your default remote is usually called `origin`.
 
-### Creating remote repositories
+### Creating remote repositoriesd
 
 You can use the `git remote add` command to match a remote URL with a name.
 For example, you'd type the following in the command line:
